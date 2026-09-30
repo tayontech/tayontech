@@ -8,7 +8,7 @@ I've been interested in cyber security 8+ years with a specialization in Splunk 
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [tayvion@tayontech.io](mailto:tayvion@tayontech.io)
-* 🧠  I'm learning Cloud Infrastructure & Blockchain Security
+* 🧠  I'm researching AI & Cloud Security
 * 🤝  I'm open to collaborating on Cloud Based Projects, Threat Detections, Home Labs, & more.
 
 <a href="https://www.twitter.com/tayontech" target="_blank" rel="noreferrer"><img
